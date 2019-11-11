@@ -5,3 +5,4 @@ Trash
 .python-version
 **/__pycache__
 .idea
+Lib/site-packages/dns/rdtypes/euibase.py
